@@ -1,0 +1,15 @@
+apt update
+apt upgrade
+apt install wget proot python
+wget https://raw.githubusercontent.com/rooted-cyber/Anlinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh
+bash ubuntu.sh
+
+Ubuntu os me
+apt update
+apt upgrade
+apt install sudo python3 python3-pip wget git screen
+git clone https://github.com/TeamUltroid/Ultroid
+cd Ultroid
+pip install -r req*
+pip install pytz requests numpy gitpython enhancer
+bash startup
