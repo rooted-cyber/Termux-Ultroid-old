@@ -1,0 +1,6 @@
+#!/bin/python3
+import random
+import os
+color=['[1;91m','[1;92m','[1;93m','[1;94m','[1;95m','[1;96m']
+print(random.choice(color))
+exit()

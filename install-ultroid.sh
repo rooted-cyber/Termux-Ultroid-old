@@ -1,7 +1,8 @@
 ab() {
 if [ -e Termux-Ultroid ];then
 cd Termux*
-pip install -r req*
+cp random /bin
+bash rr*
 cd ~/Ultroid
 printf "\n\n press Enter to edit \033[1;92m .Env\n"
 nano .env
@@ -16,6 +17,7 @@ cd ~
 apt update
 apt upgrade
 apt install sudo python3 python3-pip wget git nano screen
+python3 -m pip install --upgrade pip
 git clone https://github.com/TeamUltroid/Ultroid
 ab
 else
