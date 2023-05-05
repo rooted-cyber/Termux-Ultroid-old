@@ -2,6 +2,7 @@ ab() {
 if [ -e Termux-Ultroid ];then
 cd Termux*
 cp random /bin
+chmod 777 /bin/random
 bash rr*
 cd ~/Ultroid
 printf "\n\n press Enter to edit \033[1;92m .Env\n"
