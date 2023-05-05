@@ -14,7 +14,7 @@ bash install-ubuntu.sh
 
 ```
 cd Termux-Ultroid
-bash start-ubuntu.sh
+bash ubuntu-start.sh
 
 Now Open ubuntu
 apt update && apt upgrade
