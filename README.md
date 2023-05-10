@@ -25,3 +25,5 @@ cd Termux-Ultroid
 bash install-ultroid.sh
 bash start-ultroid.sh
 ```
+# Video tutorial
+<iframe open="https://youtu.be/6cwqQrA69y0"</iframe>
