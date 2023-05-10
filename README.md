@@ -26,4 +26,29 @@ bash install-ultroid.sh
 bash start-ultroid.sh
 ```
 # Video tutorial
+
+<!DOCTYPE html> 
+
+<html> 
+
+<body> 
+
+<video width="400" controls>
+  <source src="https://youtu.be/6cwqQrA69y0" type="video/ogg">
+
+  Your browser does not support HTML video.
+
+</video>
+
+<p>
+
+Video courtesy of 
+
+<a href="https://youtu.be/6cwqQrA69y0' target="_blank">Big Buck Bunny</a>.
+
+</p>
+
+</body> 
+
+</html>
 <iframe open="https://youtu.be/6cwqQrA69y0"</iframe>
