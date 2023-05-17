@@ -7,4 +7,5 @@ cat >> $PREFIX/bin << EOF
 cd ~/Te*Ult*
 bash sta*ubu*
 EOF
-print "\n \033[1;92m Now you can star ubuntu Type:\033[1;93m sub\n"
+bash ubuntu.sh
+printf "\n \033[1;92m Now you can star ubuntu Type:\033[1;93m sub\n"
