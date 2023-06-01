@@ -1,3 +1,9 @@
+# Innstall pytgcalls
+
+```
+sh -c "$(curl -fsSl https://raw.githubusercontent.com/rooted-cyber/Termux-Ultroid/main/install-pytgcalls.sh)"
+
+```
 # Termux
 ```
 apt update && apt upgrade
