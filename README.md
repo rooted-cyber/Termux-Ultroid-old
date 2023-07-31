@@ -4,7 +4,7 @@
 sh -c "$(curl -fsSl https://raw.githubusercontent.com/rooted-cyber/Termux-Ultroid/main/install-pytgcalls.sh)"
 
 ```
-# Termux
+# Termux-ubuntu 
 ```
 apt update && apt upgrade
 apt install --fix-broken
@@ -33,22 +33,7 @@ bash start-ultroid.sh
 ```
 # Video tutorial
 
-<!DOCTYPE html> 
-
-<html> 
-
-<body> 
-
-<video width="400" controls>
-  <source src="https://youtu.be/6cwqQrA69y0" type="video/ogg">
-
-  Your browser does not support HTML video.
-
-</video>
-
-<p>
-
-Video courtesy of 
+Videos 
 
 <a href='https://youtu.be/6cwqQrA69y0' target="_blank">click here to OPEN YOUTUBE</a>
 <iframe width="500" height="500" src="https://youtu.be/6cwqQrA69y0"> </iframe>
