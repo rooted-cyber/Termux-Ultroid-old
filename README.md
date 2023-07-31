@@ -36,4 +36,5 @@ bash start-ultroid.sh
 Videos 
 
 <a href='https://youtu.be/6cwqQrA69y0' target="_blank">click here to OPEN YOUTUBE</a>
-<iframe width="500" height="500" src="https://youtu.be/6cwqQrA69y0"> </iframe>
+
+https://youtu.be/6cwqQrA69y0
