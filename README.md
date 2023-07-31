@@ -37,4 +37,4 @@ Videos
 
 <a href='https://youtu.be/6cwqQrA69y0' target="_blank">click here to OPEN YOUTUBE</a>
 
-https://youtu.be/6cwqQrA69y0
+[![Watch the video](httpss://youtu.be/6cwqQrA69y0)
