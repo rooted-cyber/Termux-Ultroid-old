@@ -65,6 +65,6 @@ python3 -m pip install --upgrade pip
 git clone https://github.com/TeamUltroid/Ultroid
 ab
 else
-printf "\n\033[1;92m First install ubuntu then clone this repo in ubuntu then start \033[1;92m bash install-ultroid.sh\n"
+printf "\n\033[1;92m First install ubuntu \033[0m bash install-ubuntu.sh\n"
 exit
 fi
