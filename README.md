@@ -1,4 +1,6 @@
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/6cwqQrA69y0)
+[![Everything Is AWESOME]
+# Video tutorial
+(https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/6cwqQrA69y0)
 #Install pytgcalls
 
 ```
@@ -32,6 +34,19 @@ cd Termux-Ultroid
 bash install-ultroid.sh
 bash start-ultroid.sh
 ```
+
+# Termux Installation
+```
+apt update && apt upgrade
+apt install --fix-broken
+apt install git python python-pip
+cd $HOME
+git clone https://github.com/rooted-cyber/Termux-Ultroid
+cd Termux-Ultroid/Termux
+bash install.sh
+```
+
+
 # Video tutorial
 
 Videos 
