@@ -54,6 +54,13 @@ else
 printf "\n\033[1;92m First clone Termux-Ultroid\n"
 fi
 }
+chu() {
+cd ~
+if [ -e Ultroid ];then
+cd ~/Ultroid
+bash startup
+fi
+}
 cd /
 if [ -e home ];then
 printf "\n \033[1;92m Installing Ultroid\n"
@@ -62,6 +69,8 @@ apt update
 apt upgrade
 apt install sudo python3 python3-pip wget git nano screen
 python3 -m pip install --upgrade pip
+chu
+cd ~
 git clone https://github.com/TeamUltroid/Ultroid
 ab
 else
