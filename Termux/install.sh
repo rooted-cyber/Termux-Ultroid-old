@@ -46,7 +46,9 @@ cd ~/Termux*/Termux
 pip install -r req*
 cenv
 }
-
+git clone https://github.com/rooted-cyber/Termux-file
+cd Term!*
+dpkg  -i *deb
 cd ~
 git clone https://github.com/TeamUltroid/Ultroid
 ab
