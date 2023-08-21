@@ -15,7 +15,6 @@ gitpython
 google-api-python-client
 htmlwebshot
 lottie
-lxml
 oauth2client
 profanitydetector
 psutil
