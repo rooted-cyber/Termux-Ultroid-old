@@ -9,3 +9,4 @@ ra
 pip install $a
 sleep 1
 done
+pip3 install -r ~/Termux*/req*
