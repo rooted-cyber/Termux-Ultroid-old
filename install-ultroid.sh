@@ -47,6 +47,7 @@ cd Termux*
 cp random /bin
 chmod 777 /bin/random
 bash rr*
+bash rs*
 cd ~/Ultroid
 printf "\n\n press Enter to fill .env \033[1;92m .Env\n"
 cenv
