@@ -9,6 +9,7 @@ pip3 install enhancer
 pip3 install git+https://github.com/New-dev0/instagrapi.git@39df1b1#egg=instagrapi
 pip3 install git+https://github.com/buddhhu/img2html.git@c44170d#egg=img2html
 pip3 install heroku3
+pip3 install coloredlogs
 pip3 install gitpython
 pip3 install google-api-python-client
 pip3 install htmlwebshot
