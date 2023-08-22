@@ -30,3 +30,16 @@ pip3 install git+https://github.com/xditya/telegraph.git@41fd800#egg=telegraph
 pip3 install tgcrypto
 pip3 install youtube-search-python
 pip3 install yt-dlp
+pip3 install 'google_trans_new'
+pip3 install 'pyjokes'
+pip3 install 'fontTools'
+pip3 install 'quotefancy'
+pip3 install 'lyrics_extractor'
+pip3 install 'jikanpy'
+pip3 install textblob
+pip3 install speedtest-cli
+pip3 install emoji
+pip3 install shazamio
+pip3 install wikipedia
+pip3 install covid
+pip3 install pyfiglet
